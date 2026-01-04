@@ -48,7 +48,7 @@ development. Proven record of accomplishment in delivering robust software solut
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShaheerKhalid55&show_icons=true&theme=default" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShaheerKhalid55&show_icons=true&theme=default" />
 
 </td>
 <td>
